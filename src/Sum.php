@@ -1,6 +1,6 @@
 <?
 
-namespace Ykknv;
+namespace Yknnv;
 
 class Sum
 {

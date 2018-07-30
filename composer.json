@@ -1,6 +1,5 @@
 {
-    "name": "Yknnv/sum",
-    "description": "Simple package",
+    "name": "yknnv/sum",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,8 +10,8 @@
     ],
     "require": {},
     "autoload": {
-	"psr-4": {
-	    "Yknnv\\": "src"
-	}
+        "psr-4": {
+            "Yknnv\\": "src"
+        }
     }
 }

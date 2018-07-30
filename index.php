@@ -1,10 +1,5 @@
-<?
-function sum($a, $b){
-   $s = $a + $b;
-   return "Hello otus, sum is".$s;
-}
+<?php
+include 'src/Sum.php';
 
-$a = 10;
-$b = 15;
-
-echo sum($a, $b);
+$sum = new Ykknv\Sum();
+echo $sum->sum(15, 25);

@@ -1,0 +1,13 @@
+{
+    "name": "ykknv/sum1",
+    "description": "Simple package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yury Kononov",
+            "email": "kononov90@gmail.com"
+        }
+    ],
+    "require": {}
+}

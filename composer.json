@@ -9,5 +9,10 @@
             "email": "kononov90@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+	"psr-4": {
+	    "ykknv\\": "src"
+	}
+    }
 }
